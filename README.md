@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+
+Hi humans - this is my first time editing the readme file! yAyness
+  
